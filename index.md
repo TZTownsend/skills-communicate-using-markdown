@@ -6,3 +6,6 @@
 ###### This is an H6 Header
 
 This is text.
+
+![This is where the image description goes.  This example is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
