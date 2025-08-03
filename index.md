@@ -9,3 +9,18 @@ This is text.
 
 ![This is where the image description goes.  This example is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Code blocks
+Below are some examples of code blocks:
+###### git
+```
+$ git init
+```
+###### javascript
+``` javascript
+var myVar = "Hello, world!";
+```
+###### python
+``` python
+myString = "Hello, world!"
+```
+
