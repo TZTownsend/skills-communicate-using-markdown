@@ -7,6 +7,7 @@
 
 This is text.
 
+## Images
 ![This is where the image description goes.  This example is an image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Code blocks
@@ -24,3 +25,7 @@ var myVar = "Hello, world!";
 myString = "Hello, world!"
 ```
 
+## Task lists
+- [X] Task example 1 (marked as completed)
+- [ ] Task example 2
+- [ ] Task example 3
